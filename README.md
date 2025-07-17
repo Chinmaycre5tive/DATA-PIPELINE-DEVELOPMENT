@@ -18,6 +18,7 @@ DATA PIPELINE DEVELOPMENT A DATA PIPELINE DEVELOPMENT TASK INVOLVES THE DESIGNIN
 *OUTPUT*
 
 
+<img width="1920" height="945" alt="Image" src="https://github.com/user-attachments/assets/82d96770-eb71-4e7a-ade1-b301df5b4b5a" />
 
 
 <img width="963" height="510" alt="Image" src="https://github.com/user-attachments/assets/37695541-1e50-46cd-bf6a-6250d6097087" />
