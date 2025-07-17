@@ -13,5 +13,4 @@
 *MENTOR*:NEELA SANTOSH
 
 *DESCRIPTION*
-Data Pipeline Development (Data Science Task)
-A data pipeline development task involves the designing, building, and maintaining of automated workflows that extract, transform, and load (ETL/ELT) data from various sources into downstream data stores (such as data warehouses or data lakes) for analytics, machine learning, or reporting purposes. Efficiency, reliability, and scalability are key. 
+DATA PIPELINE DEVELOPMENT A DATA PIPELINE DEVELOPMENT TASK INVOLVES THE DESIGNING, BUILDING, AND MAINTAINING OF AUTOMATED WORKFLOWS THAT EXTRACT, TRANSFORM, AND LOAD (ETL/ELT) DATA FROM VARIOUS SOURCES INTO DOWNSTREAM DATA STORES (SUCH AS DATA WAREHOUSES OR DATA LAKES) FOR ANALYTICS, MACHINE LEARNING, OR REPORTING PURPOSES. EFFICIENCY, RELIABILITY, AND SCALABILITY ARE KEY.
